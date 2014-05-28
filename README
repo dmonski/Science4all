@@ -1,0 +1,15 @@
+Science4all
+===========
+
+This will be a "Kerbal Space Program" Science Mod. 
+Shows a nicer table than the 'Science Archive'.
+
+TODO:
+- learn c#
+- do real partModule
+- module on/off switch
+- small icon to switch big window
+- rewrite twisted classes
+- dont do sci loops in drawgui func
+- remove unneed spaceholders (Planet dont have sciModule SP / LN....)
+- rewrite? ;)
